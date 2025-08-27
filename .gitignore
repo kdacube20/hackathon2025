@@ -1,0 +1,15 @@
+# Ignorar datasets y modelos locales
+*.wav
+*.mp3
+*.mp4
+*.csv
+*.json
+*.pt
+*.h5
+*.pickle
+
+# Carpetas grandes
+/data/
+/datasets/
+/models/
+/checkpoints/
