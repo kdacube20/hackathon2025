@@ -1,0 +1,14 @@
+# --- Transcripción de audio ---
+openai-whisper
+torchaudio
+
+# --- Modelos de lenguaje ---
+transformers
+sentence-transformers
+
+# --- Vector DB ---
+faiss-cpu
+
+# --- Utilidades ---
+huggingface_hub
+python-dotenv
