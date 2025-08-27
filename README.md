@@ -20,7 +20,7 @@ Sistema que:
 
 0. Clonar el REPO
  ```python
-!git clone https://github.com/<tu_usuario>/hackathon_2025.git
+!git clone https://github.com/<tu_usuario>/hackathon2025.git
 ```
 2. Montar Drive:
    ```python
