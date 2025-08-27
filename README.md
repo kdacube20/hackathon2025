@@ -17,6 +17,10 @@ Sistema que:
 - `setup.ipynb` → Instalación rápida.
 
 ## ▶️ Cómo empezar en Colab
+
+0. Clonar el REPO 
+!git clone https://github.com/<tu_usuario>/hackathon_2025.git
+
 1. Montar Drive:
    ```python
    from google.colab import drive
