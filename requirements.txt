@@ -13,9 +13,20 @@ faiss-cpu
 huggingface_hub
 python-dotenv
 
-pandas faster-whisper torch accelerate bitsandbytes
+pandas 
+faster-whisper 
+torch 
+accelerate 
+bitsandbytes
 --upgrade transformers
 git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
-torch transformers faster-whisper huggingface_hub pandas tqdm PyPDF2
+torch 
+transformers 
+faster-whisper 
+huggingface_hub 
+pandas 
+tqdm 
+PyPDF2
 google-generativeai
+
 
