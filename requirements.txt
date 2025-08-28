@@ -14,7 +14,6 @@ huggingface_hub
 python-dotenv
 
 pandas 
-faster-whisper 
 torch 
 accelerate 
 bitsandbytes
@@ -22,12 +21,17 @@ transformers
 git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
 torch 
 transformers 
-faster-whisper 
 huggingface_hub 
 pandas 
 tqdm 
 PyPDF2
 google-generativeai
+
+--extra-index-url https://opennmt-models.s3.amazonaws.com/whl/torch/cu126
+ctranslate2
+faster-whisper
+
+
 
 
 
