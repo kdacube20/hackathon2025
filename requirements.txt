@@ -18,7 +18,7 @@ faster-whisper
 torch 
 accelerate 
 bitsandbytes
---upgrade transformers
+transformers
 git+https://github.com/huggingface/transformers@v4.49.0-Gemma-3
 torch 
 transformers 
@@ -28,5 +28,6 @@ pandas
 tqdm 
 PyPDF2
 google-generativeai
+
 
 
