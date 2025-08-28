@@ -12,7 +12,6 @@ faiss-cpu
 # --- Utilidades ---
 huggingface_hub
 python-dotenv
-
 pandas 
 torch 
 accelerate 
@@ -26,10 +25,10 @@ pandas
 tqdm 
 PyPDF2
 google-generativeai
-
 --extra-index-url https://opennmt-models.s3.amazonaws.com/whl/torch/cu126
 ctranslate2
 faster-whisper
+
 
 
 
